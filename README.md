@@ -1,5 +1,7 @@
-# joguinho_em_scratch
-# *Nadafor - Jogo Simples no Scratch*  
+## *📥 Link do Joguinho:*  
+1. Acesse o projeto no Scratch: https://scratch.mit.edu/projects/1202385502  
+
+# *Nadador - Jogo Simples no Scratch*  
 
 🦈 *Nadador* é um jogo rápido e divertido desenvolvido no *Scratch*, onde o objetivo é marcar pontos clicando em tubarões antes que o tempo acabe!  
 
@@ -28,8 +30,6 @@
    - *Sprit 1* (Nadador).  
 
 --- 
-## *📥 Link do Joguinho:*  
-1. Acesse o projeto no Scratch: https://scratch.mit.edu/projects/1202385502  
 ---
 
 ### *📌 Tecnologias Usadas*  
@@ -38,8 +38,3 @@
 
 ---
 
-*Divirta-se!* 🎉 Se quiser contribuir ou sugerir melhorias, fique à vontade para abrir uma *issue* ou *pull request*.  
-
----  
-
-🔗 *Link do Projeto:* [Insira o URL do projeto Scratch ou GitHub]  
