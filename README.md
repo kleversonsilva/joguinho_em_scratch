@@ -30,11 +30,10 @@
    - *Sprit 1* (Nadador).  
 
 --- 
----
 
-### *📌 Tecnologias Usadas*  
-- *Plataforma:* Scratch  
-- *Lógica:* Eventos, loops e condicionais  
+### *📌 Visualização da tela*  
 
----
+![tela5](https://github.com/user-attachments/assets/4a3b42e5-5c13-4389-b275-175e219dd2d7)
+
+
 
